@@ -1,6 +1,34 @@
-Calculate things related to jump range in x4: Foundations
 
-NOTE: This does not implement the one-way superhighway in Savage Spur
+---
 
-When downloading, make sure all files are in the same directory.
-Reference 'Parsed Clusters.json' to convert system IDs to the names of the systems.
+# Jump Range Calculator for *X4: Foundations*
+
+This project provides tools to calculate jump ranges and related pathfinding information in *X4: Foundations*.
+
+## Requirements
+
+* Python **3.8+** (recommended)
+* [NetworkX](https://networkx.org/) library
+
+Install dependencies with:
+
+```
+pip install networkx
+```
+
+## Usage
+
+From the project directory, run:
+
+```
+python v2/JumpRangeCalc2.py
+```
+
+Alternatively, run the program from an IDE
+
+## Notes
+
+* Calculations are based on data from [qsna.eu/x4/map](https://www.qsna.eu/x4/map).
+* This calculator does **not** automatically update when the game map changes in new patches.
+
+---
