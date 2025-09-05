@@ -68,7 +68,7 @@ def createGraphSectors(dlc: dict, galaxyJson: dict) -> networkx.DiGraph:
                 
     return graph
 
-def distance(graph: networkx.DiGraph, startNode, endNode) -> float:
+def distanceBetweenSectors(graph: networkx.DiGraph, startNode, endNode) -> float:
     if startNode not in graph or endNode not in graph:
         raise networkx.NodeNotFound("Source or target node not in graph.")
     
@@ -200,7 +200,7 @@ def main():
                     except ValueError as e:
                         print(e)
                 
-                dist = distance(graphSectors if countSuperhighways else graphClusters, startSector, endSector)
+                dist = distanceBetweenSectors(graphSectors if countSuperhighways else graphClusters, startSector, endSector)
                 print(f"Distance from '{getSectorName(galaxyJson, startSector)}' to '{getSectorName(galaxyJson, endSector)}' is {dist}")
             
             case "3":
