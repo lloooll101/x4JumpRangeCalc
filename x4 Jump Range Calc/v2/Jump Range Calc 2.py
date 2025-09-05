@@ -170,7 +170,7 @@ def main():
         print("2. Calculate distance between two sectors")
         print("3. Calculate distance to all sectors from a starting sector")
         print("4. Show the distance to the furthest sector using each sector as a starting point")
-        print("5. Calculate the clusters within a certain range of a starting sector")
+        print("5. Calculate the number of sectors within a certain range of a starting sector")
         print("6. Show the number of sectors within a certain range of a starting sector")
         print("exit. Exit the program")
         
@@ -189,6 +189,8 @@ def main():
                 while(True):
                     try:
                         startSector = getSectorTuple(galaxyJson, input("Please input the name of the starting sector: "))
+                        if startSector not in graphClusters.nodes:
+                            raise ValueError("Sector not allowed by DLC selection")
                         break
                     except ValueError as e:
                         print(e)
@@ -196,6 +198,8 @@ def main():
                 while(True):
                     try:
                         endSector = getSectorTuple(galaxyJson, input("Please input the name of the ending sector: "))
+                        if endSector not in graphClusters.nodes:
+                            raise ValueError("Sector not allowed by DLC selection")
                         break
                     except ValueError as e:
                         print(e)
@@ -211,6 +215,8 @@ def main():
                 while(True):
                     try:
                         startSector = getSectorTuple(galaxyJson, input("Please input the name of the starting sector: "))
+                        if startSector not in graphClusters.nodes:
+                            raise ValueError("Sector not allowed by DLC selection")
                         break
                     except ValueError as e:
                         print(e)
@@ -218,7 +224,7 @@ def main():
                 dist = pathLengths(graphSectors if countSuperhighways else graphClusters, startSector)
                 
                 length  = max([len(getSectorName(galaxyJson, sectorTuple)) for sectorTuple, distance in dist.items()])
-                print("Distances to each sector:")
+                print("Distance to each sector:")
                 
                 for sectorTuple, distance in dist.items():
                     print(f"{str.ljust(getSectorName(galaxyJson, sectorTuple), length)}: {distance}")
@@ -229,7 +235,7 @@ def main():
                 dist = allPathLengths(graphSectors if countSuperhighways else graphClusters)
                 
                 length  = max([len(getSectorName(galaxyJson, sectorTuple)) for sectorTuple, distance in dist.items()])
-                print("Distances to furthest sector from each sector:")
+                print("Distance to furthest sector from each sector:")
                 
                 for sectorTuple, distance in dist.items():
                     print(f"{str.ljust(getSectorName(galaxyJson, sectorTuple), length)}: {distance}")
@@ -243,6 +249,8 @@ def main():
                 while(True):
                     try:
                         startSector = getSectorTuple(galaxyJson, input("Please input the name of the starting sector: "))
+                        if startSector not in graphClusters.nodes:
+                            raise ValueError("Sector not allowed by DLC selection")
                         break
                     except ValueError as e:
                         print(e)
@@ -270,10 +278,10 @@ def main():
                 
                 while(True):
                     try:
-                        maxDistance = int(input("Please input the max range from the starting sector to check: "))
+                        maxDistance = float(input("Please input the max range from the starting sector to check: "))
                         break
                     except ValueError as e:
-                        print("Value was not an integer, please try again.")
+                        print("Value was not a number, please try again.")
                 
                 sectors = findMaxClustersInRange(graphSectors if countSuperhighways else graphClusters, maxDistance)
                 
