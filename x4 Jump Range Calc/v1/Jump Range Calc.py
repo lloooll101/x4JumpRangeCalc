@@ -22,25 +22,6 @@ def loadJsonFile(filepath: str) -> dict:
         print(f"An unexpected error occurred: {e}")
         return None
 
-    if start == end:
-        return 0
-    
-    visited = set((start, 0))
-    queue = collections.deque([(start, 0)])
-    
-    while queue:
-        current, jumps = queue.popleft()
-        if current == end:
-            return jumps
-        
-        for neighbor in galaxyData[current]["connections"]:
-            if not (neighbor in visited) and dlc.get(galaxyData[neighbor]["dlc"], False):
-                visited.add(neighbor)
-                queue.append((neighbor, jumps + 1))
-    
-    print(f"Error: Path between '{start}' and '{end}' was not found with current DLC settings.")
-    return -1
-
 def calculateJumpDistanceBidirectional(start: str, end: str, dlc: dict, galaxyData: dict) -> int:
     if start == end:
         return 0
