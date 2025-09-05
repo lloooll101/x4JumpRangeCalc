@@ -1,0 +1,3201 @@
+{
+    "001": {
+        "id": "001",
+        "name": "Grand Exchange",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Grand Exchange I",
+                "gates": [
+                    {
+                        "destCluster": "004",
+                        "destSector": "002"
+                    },
+                    {
+                        "destCluster": "005",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": [
+                    "002",
+                    "003"
+                ]
+            },
+            "002": {
+                "id": "002",
+                "name": "Grand Exchange III",
+                "gates": [
+                    {
+                        "destCluster": "006",
+                        "destSector": "002"
+                    }
+                ],
+                "superhighways": [
+                    "001",
+                    "003"
+                ]
+            },
+            "003": {
+                "id": "003",
+                "name": "Grand Exchange IV",
+                "gates": [
+                    {
+                        "destCluster": "002",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": [
+                    "001",
+                    "002"
+                ]
+            }
+        }
+    },
+    "002": {
+        "id": "002",
+        "name": "Eighteen Billion",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Eighteen Billion",
+                "gates": [
+                    {
+                        "destCluster": "001",
+                        "destSector": "003"
+                    },
+                    {
+                        "destCluster": "003",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "008",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "501",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "003": {
+        "id": "003",
+        "name": "Memory of Profit",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Memory of Profit IX",
+                "gates": [
+                    {
+                        "destCluster": "009",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "002",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "039",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "004": {
+        "id": "004",
+        "name": "Nopileos' Fortune",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Nopileos' Fortune II",
+                "gates": [],
+                "superhighways": [
+                    "002"
+                ]
+            },
+            "002": {
+                "id": "002",
+                "name": "Nopileos' Fortune VI",
+                "gates": [
+                    {
+                        "destCluster": "022",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "001",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": [
+                    "001"
+                ]
+            }
+        }
+    },
+    "005": {
+        "id": "005",
+        "name": "Path to Profit",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Path to Profit",
+                "gates": [
+                    {
+                        "destCluster": "001",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "006": {
+        "id": "006",
+        "name": "Black Hole Sun",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Black Hole Sun IV",
+                "gates": [
+                    {
+                        "destCluster": "013",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "503",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": [
+                    "002"
+                ]
+            },
+            "002": {
+                "id": "002",
+                "name": "Black Hole Sun V",
+                "gates": [
+                    {
+                        "destCluster": "001",
+                        "destSector": "002"
+                    }
+                ],
+                "superhighways": [
+                    "001"
+                ]
+            }
+        }
+    },
+    "007": {
+        "id": "007",
+        "name": "The Reach",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "The Reach",
+                "gates": [
+                    {
+                        "destCluster": "014",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "008": {
+        "id": "008",
+        "name": "Silent Witness",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Silent Witness I",
+                "gates": [
+                    {
+                        "destCluster": "044",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "034",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "029",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "002",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "704",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "501",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "009": {
+        "id": "009",
+        "name": "Bright Promise",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Bright Promise",
+                "gates": [
+                    {
+                        "destCluster": "034",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "018",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "015",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "003",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "010": {
+        "id": "010",
+        "name": "Unholy Retribution",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Unholy Retribution",
+                "gates": [
+                    {
+                        "destCluster": "022",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "018",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "011": {
+        "id": "011",
+        "name": "Pontifex's Claim",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Pontifex's Claim",
+                "gates": [
+                    {
+                        "destCluster": "024",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "022",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "012": {
+        "id": "012",
+        "name": "True Sight",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "True Sight",
+                "gates": [
+                    {
+                        "destCluster": "024",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "013",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "013": {
+        "id": "013",
+        "name": "Second Contact",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Second Contact II Flashpoint",
+                "gates": [
+                    {
+                        "destCluster": "012",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "027",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "040",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "006",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "014",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "014": {
+        "id": "014",
+        "name": "Argon Prime",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Argon Prime",
+                "gates": [
+                    {
+                        "destCluster": "013",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "007",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "706",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "029",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "015": {
+        "id": "015",
+        "name": "Ianamus Zura",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Ianamus Zura IV",
+                "gates": [
+                    {
+                        "destCluster": "701",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "016",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "009",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": [
+                    "002"
+                ]
+            },
+            "002": {
+                "id": "002",
+                "name": "Ianamus Zura VII",
+                "gates": [
+                    {
+                        "destCluster": "408",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": [
+                    "001"
+                ]
+            }
+        }
+    },
+    "016": {
+        "id": "016",
+        "name": "Matrix #451",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Matrix #451",
+                "gates": [
+                    {
+                        "destCluster": "017",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "407",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "015",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "017": {
+        "id": "017",
+        "name": "Matrix #9",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Matrix #9",
+                "gates": [
+                    {
+                        "destCluster": "016",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "421",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "018": {
+        "id": "018",
+        "name": "Trinity Sanctum",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Trinity Sanctum III",
+                "gates": [
+                    {
+                        "destCluster": "019",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "009",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "047",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "010",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "019": {
+        "id": "019",
+        "name": "Hewa's Twin",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Hewa's Twin I",
+                "gates": [
+                    {
+                        "destCluster": "018",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "042",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": [
+                    "002"
+                ]
+            },
+            "002": {
+                "id": "002",
+                "name": "Hewa's Twin II",
+                "gates": [
+                    {
+                        "destCluster": "020",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": [
+                    "001"
+                ]
+            }
+        }
+    },
+    "020": {
+        "id": "020",
+        "name": "Company Regard",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Company Regard",
+                "gates": [
+                    {
+                        "destCluster": "021",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "019",
+                        "destSector": "002"
+                    },
+                    {
+                        "destCluster": "050",
+                        "destSector": "002"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "021": {
+        "id": "021",
+        "name": "Scale Plate Green",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Scale Plate Green I",
+                "gates": [
+                    {
+                        "destCluster": "020",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": [
+                    "002"
+                ]
+            },
+            "002": {
+                "id": "002",
+                "name": "Scale Plate Green VII",
+                "gates": [
+                    {
+                        "destCluster": "050",
+                        "destSector": "002"
+                    }
+                ],
+                "superhighways": [
+                    "001"
+                ]
+            }
+        }
+    },
+    "022": {
+        "id": "022",
+        "name": "Pious Mists",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Pious Mists II",
+                "gates": [
+                    {
+                        "destCluster": "010",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "037",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "023",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "038",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "004",
+                        "destSector": "002"
+                    },
+                    {
+                        "destCluster": "011",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "023": {
+        "id": "023",
+        "name": "Sacred Relic",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Sacred Relic",
+                "gates": [
+                    {
+                        "destCluster": "022",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "709",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "024": {
+        "id": "024",
+        "name": "Holy Vision",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Holy Vision",
+                "gates": [
+                    {
+                        "destCluster": "012",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "025",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "011",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "036",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "025": {
+        "id": "025",
+        "name": "Faulty Logic",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Faulty Logic I",
+                "gates": [
+                    {
+                        "destCluster": "024",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": [
+                    "002"
+                ]
+            },
+            "002": {
+                "id": "002",
+                "name": "Faulty Logic VII",
+                "gates": [
+                    {
+                        "destCluster": "026",
+                        "destSector": "002"
+                    }
+                ],
+                "superhighways": [
+                    "001"
+                ]
+            }
+        }
+    },
+    "026": {
+        "id": "026",
+        "name": "Atiya's Misfortune",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Atiya's Misfortune I",
+                "gates": [
+                    {
+                        "destCluster": "049",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": [
+                    "002"
+                ]
+            },
+            "002": {
+                "id": "002",
+                "name": "Atiya's Misfortune III",
+                "gates": [
+                    {
+                        "destCluster": "025",
+                        "destSector": "002"
+                    },
+                    {
+                        "destCluster": "715",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": [
+                    "001"
+                ]
+            }
+        }
+    },
+    "027": {
+        "id": "027",
+        "name": "The Void",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "The Void",
+                "gates": [
+                    {
+                        "destCluster": "028",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "013",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "049",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "048",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "028": {
+        "id": "028",
+        "name": "Antigone Memorial",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Antigone Memorial",
+                "gates": [
+                    {
+                        "destCluster": "113",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "027",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "029": {
+        "id": "029",
+        "name": "Hatikvah's Choice",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Hatikvah's Choice I",
+                "gates": [
+                    {
+                        "destCluster": "030",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "032",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "008",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "014",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": [
+                    "002"
+                ]
+            },
+            "002": {
+                "id": "002",
+                "name": "Hatikvah's Choice III",
+                "gates": [],
+                "superhighways": [
+                    "001"
+                ]
+            }
+        }
+    },
+    "030": {
+        "id": "030",
+        "name": "Morning Star",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Morning Star III",
+                "gates": [
+                    {
+                        "destCluster": "046",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "031",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "029",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "031": {
+        "id": "031",
+        "name": "Heretic's End",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Heretic's End",
+                "gates": [
+                    {
+                        "destCluster": "403",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "601",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "030",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "032": {
+        "id": "032",
+        "name": "Tharka's Cascade",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Tharka's Cascade XV",
+                "gates": [
+                    {
+                        "destCluster": "708",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "401",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "029",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": [
+                    "002"
+                ]
+            },
+            "002": {
+                "id": "002",
+                "name": "Tharka's Cascade XVII",
+                "gates": [
+                    {
+                        "destCluster": "033",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": [
+                    "001"
+                ]
+            }
+        }
+    },
+    "033": {
+        "id": "033",
+        "name": "Matrix #79B",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Matrix #79B",
+                "gates": [
+                    {
+                        "destCluster": "112",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "032",
+                        "destSector": "002"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "034": {
+        "id": "034",
+        "name": "Profit Center Alpha",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Profit Center Alpha",
+                "gates": [
+                    {
+                        "destCluster": "009",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "420",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "008",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "035": {
+        "id": "035",
+        "name": "Lasting Vengeance",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Lasting Vengeance",
+                "gates": [
+                    {
+                        "destCluster": "036",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "036": {
+        "id": "036",
+        "name": "Cardinal's Redress",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Cardinal's Redress",
+                "gates": [
+                    {
+                        "destCluster": "024",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "714",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "035",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "037": {
+        "id": "037",
+        "name": "Pious Mists",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Pious Mists IV",
+                "gates": [
+                    {
+                        "destCluster": "038",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "022",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "038": {
+        "id": "038",
+        "name": "Pious Mists",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Pious Mists XI",
+                "gates": [
+                    {
+                        "destCluster": "037",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "022",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "039": {
+        "id": "039",
+        "name": "Memory of Profit",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Memory of Profit X",
+                "gates": [
+                    {
+                        "destCluster": "713",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "003",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "040": {
+        "id": "040",
+        "name": "Second Contact",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Second Contact VII",
+                "gates": [
+                    {
+                        "destCluster": "013",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "041",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "041": {
+        "id": "041",
+        "name": "Second Contact",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Second Contact XI",
+                "gates": [
+                    {
+                        "destCluster": "040",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "042": {
+        "id": "042",
+        "name": "Hewa's Twin",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Hewa's Twin III",
+                "gates": [
+                    {
+                        "destCluster": "019",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "043",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": [
+                    "002"
+                ]
+            },
+            "002": {
+                "id": "002",
+                "name": "Hewa's Twin IV The Cove",
+                "gates": [],
+                "superhighways": [
+                    "001"
+                ]
+            }
+        }
+    },
+    "043": {
+        "id": "043",
+        "name": "Hewa's Twin",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Hewa's Twin V",
+                "gates": [
+                    {
+                        "destCluster": "042",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "044": {
+        "id": "044",
+        "name": "Silent Witness",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Silent Witness XI",
+                "gates": [
+                    {
+                        "destCluster": "045",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "008",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "045": {
+        "id": "045",
+        "name": "Silent Witness",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Silent Witness XII",
+                "gates": [
+                    {
+                        "destCluster": "044",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "046": {
+        "id": "046",
+        "name": "Morning Star",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Morning Star IV",
+                "gates": [
+                    {
+                        "destCluster": "030",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "047": {
+        "id": "047",
+        "name": "Trinity Sanctum",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Trinity Sanctum VII",
+                "gates": [
+                    {
+                        "destCluster": "018",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "049": {
+        "id": "049",
+        "name": "Frontier Edge",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Frontier Edge",
+                "gates": [
+                    {
+                        "destCluster": "026",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "720",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "027",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "048": {
+        "id": "048",
+        "name": "Getsu Fune",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Getsu Fune",
+                "gates": [
+                    {
+                        "destCluster": "027",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "100",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "604",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "112",
+                        "destSector": "002"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "050": {
+        "id": "050",
+        "name": "Turquoise Sea",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Turquoise Sea IX",
+                "gates": [],
+                "superhighways": [
+                    "002"
+                ]
+            },
+            "002": {
+                "id": "002",
+                "name": "Turquoise Sea X",
+                "gates": [
+                    {
+                        "destCluster": "021",
+                        "destSector": "002"
+                    },
+                    {
+                        "destCluster": "020",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": [
+                    "001"
+                ]
+            }
+        }
+    },
+    "709": {
+        "id": "709",
+        "name": "Cardinal's Domain",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Cardinal's Domain",
+                "gates": [
+                    {
+                        "destCluster": "723",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "023",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "710",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "710": {
+        "id": "710",
+        "name": "Moo-Kye's Revenge",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Moo-Kye's Revenge",
+                "gates": [
+                    {
+                        "destCluster": "711",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "709",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "711": {
+        "id": "711",
+        "name": "Mi Ton's Refuge",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Mi Ton's Refuge",
+                "gates": [
+                    {
+                        "destCluster": "712",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "710",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "712": {
+        "id": "712",
+        "name": "Loomanckstrat's Legacy",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Loomanckstrat's Legacy",
+                "gates": [
+                    {
+                        "destCluster": "713",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "711",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "713": {
+        "id": "713",
+        "name": "CEO's Doubt",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "CEO's Doubt",
+                "gates": [
+                    {
+                        "destCluster": "039",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "712",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "714": {
+        "id": "714",
+        "name": "Freedom's Reach",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Freedom's Reach",
+                "gates": [
+                    {
+                        "destCluster": "036",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "715": {
+        "id": "715",
+        "name": "Mists of Artemis",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Mists of Artemis",
+                "gates": [
+                    {
+                        "destCluster": "026",
+                        "destSector": "002"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "720": {
+        "id": "720",
+        "name": "Ore Belt",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Ore Belt",
+                "gates": [
+                    {
+                        "destCluster": "730",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "049",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "722",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "721",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "721": {
+        "id": "721",
+        "name": "Adventure's Promise",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Adventure's Promise",
+                "gates": [
+                    {
+                        "destCluster": "608",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "720",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "722": {
+        "id": "722",
+        "name": "Sanctum Verge",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Sanctum Verge",
+                "gates": [
+                    {
+                        "destCluster": "724",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "720",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "723",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "723": {
+        "id": "723",
+        "name": "Tempting Fumes",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Tempting Fumes",
+                "gates": [
+                    {
+                        "destCluster": "722",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "709",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "724": {
+        "id": "724",
+        "name": "Circle of Deceit",
+        "dlc": "base",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Circle of Deceit",
+                "gates": [
+                    {
+                        "destCluster": "115",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "722",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "401": {
+        "id": "401",
+        "name": "Family Zhin",
+        "dlc": "split",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Family Zhin",
+                "gates": [
+                    {
+                        "destCluster": "418",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "400",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "402",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "032",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "402": {
+        "id": "402",
+        "name": "Family Kritt",
+        "dlc": "split",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Family Kritt",
+                "gates": [
+                    {
+                        "destCluster": "414",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "401",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "403": {
+        "id": "403",
+        "name": "Wretched Skies",
+        "dlc": "split",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Wretched Skies V Family Phi",
+                "gates": [
+                    {
+                        "destCluster": "422",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "400",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "031",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "400": {
+        "id": "400",
+        "name": "Wretched Skies",
+        "dlc": "split",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Wretched Skies IV Family Valka",
+                "gates": [
+                    {
+                        "destCluster": "403",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "401",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "408": {
+        "id": "408",
+        "name": "Thuruk's Demise",
+        "dlc": "split",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Thuruk's Demise III",
+                "gates": [
+                    {
+                        "destCluster": "407",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "015",
+                        "destSector": "002"
+                    }
+                ],
+                "superhighways": [
+                    "002"
+                ]
+            },
+            "002": {
+                "id": "002",
+                "name": "Thuruk's Demise II First Impact",
+                "gates": [],
+                "superhighways": [
+                    "001"
+                ]
+            }
+        }
+    },
+    "407": {
+        "id": "407",
+        "name": "Family Tkr",
+        "dlc": "split",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Family Tkr",
+                "gates": [
+                    {
+                        "destCluster": "409",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "421",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "016",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "408",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "409": {
+        "id": "409",
+        "name": "Tharka's Ravine",
+        "dlc": "split",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Tharka's Ravine XXIV",
+                "gates": [
+                    {
+                        "destCluster": "421",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "410",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "407",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "410": {
+        "id": "410",
+        "name": "Tharka's Ravine",
+        "dlc": "split",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Tharka's Ravine XVI",
+                "gates": [
+                    {
+                        "destCluster": "409",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "411",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "412",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "411": {
+        "id": "411",
+        "name": "Heart of Acrimony",
+        "dlc": "split",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Heart of Acrimony II",
+                "gates": [
+                    {
+                        "destCluster": "425",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "410",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "405": {
+        "id": "405",
+        "name": "Zyarth's Dominion",
+        "dlc": "split",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Zyarth's Dominion IV",
+                "gates": [
+                    {
+                        "destCluster": "406",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "419",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "406": {
+        "id": "406",
+        "name": "Zyarth's Dominion",
+        "dlc": "split",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Zyarth's Dominion X",
+                "gates": [
+                    {
+                        "destCluster": "417",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "404",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "405",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "404": {
+        "id": "404",
+        "name": "Zyarth's Dominion",
+        "dlc": "split",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Zyarth's Dominion I",
+                "gates": [
+                    {
+                        "destCluster": "406",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "415",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "418",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "418": {
+        "id": "418",
+        "name": "Family Nhuut",
+        "dlc": "split",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Family Nhuut",
+                "gates": [
+                    {
+                        "destCluster": "401",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "404",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "419",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "419": {
+        "id": "419",
+        "name": "Open Market",
+        "dlc": "split",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Open Market",
+                "gates": [
+                    {
+                        "destCluster": "418",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "405",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "420",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "420": {
+        "id": "420",
+        "name": "Two Grand",
+        "dlc": "split",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Two Grand",
+                "gates": [
+                    {
+                        "destCluster": "419",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "416",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "421",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "034",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "416": {
+        "id": "416",
+        "name": "Guiding Star",
+        "dlc": "split",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Guiding Star V",
+                "gates": [
+                    {
+                        "destCluster": "420",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": [
+                    "002"
+                ]
+            },
+            "002": {
+                "id": "002",
+                "name": "Guiding Star VII",
+                "gates": [
+                    {
+                        "destCluster": "417",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": [
+                    "001"
+                ]
+            }
+        }
+    },
+    "417": {
+        "id": "417",
+        "name": "Eleventh Hour",
+        "dlc": "split",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Eleventh Hour",
+                "gates": [
+                    {
+                        "destCluster": "406",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "416",
+                        "destSector": "002"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "421": {
+        "id": "421",
+        "name": "Fires of Defeat",
+        "dlc": "split",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Fires of Defeat",
+                "gates": [
+                    {
+                        "destCluster": "420",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "017",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "409",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "407",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "422": {
+        "id": "422",
+        "name": "Wretched Skies",
+        "dlc": "split",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Wretched Skies X",
+                "gates": [
+                    {
+                        "destCluster": "423",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "403",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "423": {
+        "id": "423",
+        "name": "Litany of Fury",
+        "dlc": "split",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Litany of Fury IX",
+                "gates": [
+                    {
+                        "destCluster": "424",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "422",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": [
+                    "002"
+                ]
+            },
+            "002": {
+                "id": "002",
+                "name": "Litany of Fury XII",
+                "gates": [],
+                "superhighways": [
+                    "001"
+                ]
+            }
+        }
+    },
+    "412": {
+        "id": "412",
+        "name": "Tharka's Ravine",
+        "dlc": "split",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Tharka's Ravine VIII",
+                "gates": [
+                    {
+                        "destCluster": "410",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "413",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "413": {
+        "id": "413",
+        "name": "Tharka's Ravine",
+        "dlc": "split",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Tharka's Ravine IV Tharka's Fall",
+                "gates": [
+                    {
+                        "destCluster": "412",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "414": {
+        "id": "414",
+        "name": "Rhy's Defiance",
+        "dlc": "split",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Rhy's Defiance",
+                "gates": [
+                    {
+                        "destCluster": "415",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "402",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "415": {
+        "id": "415",
+        "name": "Matrix #598",
+        "dlc": "split",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Matrix #598",
+                "gates": [
+                    {
+                        "destCluster": "414",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "404",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "424": {
+        "id": "424",
+        "name": "Emperor's Pride",
+        "dlc": "split",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Emperor's Pride IV",
+                "gates": [
+                    {
+                        "destCluster": "423",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": [
+                    "002"
+                ]
+            },
+            "002": {
+                "id": "002",
+                "name": "Emperor's Pride VI",
+                "gates": [],
+                "superhighways": [
+                    "001"
+                ]
+            }
+        }
+    },
+    "425": {
+        "id": "425",
+        "name": "Heart of Acrimony",
+        "dlc": "split",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Heart of Acrimony I The Boneyard",
+                "gates": [
+                    {
+                        "destCluster": "411",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "100": {
+        "id": "100",
+        "name": "Sol",
+        "dlc": "terran",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Asteroid Belt",
+                "gates": [
+                    {
+                        "destCluster": "101",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "048",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "107",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "101": {
+        "id": "101",
+        "name": "Sol",
+        "dlc": "terran",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Mars",
+                "gates": [
+                    {
+                        "destCluster": "102",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "100",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "102": {
+        "id": "102",
+        "name": "Sol",
+        "dlc": "terran",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Venus",
+                "gates": [
+                    {
+                        "destCluster": "101",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "106",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "104",
+                        "destSector": "002"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "104": {
+        "id": "104",
+        "name": "Sol",
+        "dlc": "terran",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Earth",
+                "gates": [],
+                "superhighways": [
+                    "002"
+                ]
+            },
+            "002": {
+                "id": "002",
+                "name": "The Moon",
+                "gates": [
+                    {
+                        "destCluster": "102",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": [
+                    "001"
+                ]
+            }
+        }
+    },
+    "106": {
+        "id": "106",
+        "name": "Sol",
+        "dlc": "terran",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Mercury",
+                "gates": [
+                    {
+                        "destCluster": "102",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "107": {
+        "id": "107",
+        "name": "Sol",
+        "dlc": "terran",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Jupiter",
+                "gates": [
+                    {
+                        "destCluster": "100",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "108",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "108": {
+        "id": "108",
+        "name": "Sol",
+        "dlc": "terran",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Saturn 1",
+                "gates": [
+                    {
+                        "destCluster": "107",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "109",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": [
+                    "002",
+                    "003"
+                ]
+            },
+            "002": {
+                "id": "002",
+                "name": "Titan",
+                "gates": [],
+                "superhighways": [
+                    "001"
+                ]
+            },
+            "003": {
+                "id": "003",
+                "name": "Saturn 2",
+                "gates": [],
+                "superhighways": [
+                    "001"
+                ]
+            }
+        }
+    },
+    "109": {
+        "id": "109",
+        "name": "Sol",
+        "dlc": "terran",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Uranus",
+                "gates": [
+                    {
+                        "destCluster": "110",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "108",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "110": {
+        "id": "110",
+        "name": "Sol",
+        "dlc": "terran",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Neptune",
+                "gates": [
+                    {
+                        "destCluster": "111",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "109",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "115",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "111": {
+        "id": "111",
+        "name": "Sol",
+        "dlc": "terran",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Pluto",
+                "gates": [
+                    {
+                        "destCluster": "110",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "116",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "112": {
+        "id": "112",
+        "name": "Savage Spur",
+        "dlc": "terran",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Savage Spur I",
+                "gates": [
+                    {
+                        "destCluster": "033",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": [
+                    "002"
+                ]
+            },
+            "002": {
+                "id": "002",
+                "name": "Savage Spur II",
+                "gates": [
+                    {
+                        "destCluster": "048",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "113": {
+        "id": "113",
+        "name": "Segaris",
+        "dlc": "terran",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Segaris",
+                "gates": [
+                    {
+                        "destCluster": "028",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "114",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "114": {
+        "id": "114",
+        "name": "Gaian Prophecy",
+        "dlc": "terran",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Gaian Prophecy",
+                "gates": [
+                    {
+                        "destCluster": "115",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "113",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "115": {
+        "id": "115",
+        "name": "Brennan's Triumph",
+        "dlc": "terran",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Brennan's Triumph",
+                "gates": [
+                    {
+                        "destCluster": "110",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "114",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "724",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "116": {
+        "id": "116",
+        "name": "Sol",
+        "dlc": "terran",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Oort Cloud",
+                "gates": [
+                    {
+                        "destCluster": "111",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "500": {
+        "id": "500",
+        "name": "Avarice",
+        "dlc": "pirate",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Avarice I",
+                "gates": [],
+                "superhighways": [
+                    "002",
+                    "003"
+                ]
+            },
+            "002": {
+                "id": "002",
+                "name": "Avarice V Dead End",
+                "gates": [],
+                "superhighways": [
+                    "001"
+                ]
+            },
+            "003": {
+                "id": "003",
+                "name": "Avarice IV",
+                "gates": [
+                    {
+                        "destCluster": "502",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": [
+                    "001"
+                ]
+            }
+        }
+    },
+    "501": {
+        "id": "501",
+        "name": "Windfall",
+        "dlc": "pirate",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Windfall I Union Summit",
+                "gates": [
+                    {
+                        "destCluster": "008",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "502",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "002",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "502": {
+        "id": "502",
+        "name": "Windfall",
+        "dlc": "pirate",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Windfall III The Hoard",
+                "gates": [
+                    {
+                        "destCluster": "500",
+                        "destSector": "003"
+                    },
+                    {
+                        "destCluster": "501",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "503",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "503": {
+        "id": "503",
+        "name": "Windfall",
+        "dlc": "pirate",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Windfall IV Aurora's Dream",
+                "gates": [
+                    {
+                        "destCluster": "502",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "006",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "504": {
+        "id": "504",
+        "name": "Unknown System",
+        "dlc": "pirate",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Unknown System",
+                "gates": [],
+                "superhighways": []
+            }
+        }
+    },
+    "602": {
+        "id": "602",
+        "name": "Barren Shores",
+        "dlc": "boron",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Barren Shores",
+                "gates": [
+                    {
+                        "destCluster": "603",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "601",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "603": {
+        "id": "603",
+        "name": "Great Reef",
+        "dlc": "boron",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Great Reef",
+                "gates": [
+                    {
+                        "destCluster": "605",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "602",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "604",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "605": {
+        "id": "605",
+        "name": "Sanctuary of Darkness",
+        "dlc": "boron",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Sanctuary of Darkness",
+                "gates": [
+                    {
+                        "destCluster": "606",
+                        "destSector": "003"
+                    },
+                    {
+                        "destCluster": "603",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "606": {
+        "id": "606",
+        "name": "Kingdom End",
+        "dlc": "boron",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Kingdom End I",
+                "gates": [],
+                "superhighways": [
+                    "002"
+                ]
+            },
+            "002": {
+                "id": "002",
+                "name": "Reflected Stars",
+                "gates": [
+                    {
+                        "destCluster": "607",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": [
+                    "001",
+                    "003"
+                ]
+            },
+            "003": {
+                "id": "003",
+                "name": "Towering Wave",
+                "gates": [
+                    {
+                        "destCluster": "605",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": [
+                    "002"
+                ]
+            }
+        }
+    },
+    "604": {
+        "id": "604",
+        "name": "Ocean of Fantasy",
+        "dlc": "boron",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Ocean of Fantasy",
+                "gates": [
+                    {
+                        "destCluster": "603",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "048",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "607": {
+        "id": "607",
+        "name": "Rolk's Demise",
+        "dlc": "boron",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Rolk's Demise",
+                "gates": [
+                    {
+                        "destCluster": "606",
+                        "destSector": "002"
+                    },
+                    {
+                        "destCluster": "608",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "609",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "601": {
+        "id": "601",
+        "name": "Watchful Gaze",
+        "dlc": "boron",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Watchful Gaze",
+                "gates": [
+                    {
+                        "destCluster": "031",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "602",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "608": {
+        "id": "608",
+        "name": "Atreus' Clouds",
+        "dlc": "boron",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Atreus' Clouds",
+                "gates": [
+                    {
+                        "destCluster": "607",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "609",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "721",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "609": {
+        "id": "609",
+        "name": "Menelaus' Oasis",
+        "dlc": "boron",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Menelaus' Oasis",
+                "gates": [
+                    {
+                        "destCluster": "607",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "608",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "702": {
+        "id": "702",
+        "name": "Mitsuno's Remembrance",
+        "dlc": "timelines",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Mitsuno's Defiance",
+                "gates": [
+                    {
+                        "destCluster": "701",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "703",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "703": {
+        "id": "703",
+        "name": "Mitsuno's Remembrance",
+        "dlc": "timelines",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Mitsuno's Sacrifice",
+                "gates": [
+                    {
+                        "destCluster": "702",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "705": {
+        "id": "705",
+        "name": "Nopileos' Memorial",
+        "dlc": "timelines",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Nopileos' Memorial",
+                "gates": [
+                    {
+                        "destCluster": "706",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "706": {
+        "id": "706",
+        "name": "Hatikvah's Faith",
+        "dlc": "timelines",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Hatikvah's Faith",
+                "gates": [
+                    {
+                        "destCluster": "705",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "014",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "704": {
+        "id": "704",
+        "name": "President's End",
+        "dlc": "timelines",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "President's End",
+                "gates": [
+                    {
+                        "destCluster": "008",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "701": {
+        "id": "701",
+        "name": "Mitsuno's Remembrance",
+        "dlc": "timelines",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Mitsuno's Revelation",
+                "gates": [
+                    {
+                        "destCluster": "015",
+                        "destSector": "001"
+                    },
+                    {
+                        "destCluster": "702",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "708": {
+        "id": "708",
+        "name": "Matrix #101",
+        "dlc": "timelines",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Matrix #101",
+                "gates": [
+                    {
+                        "destCluster": "032",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    },
+    "730": {
+        "id": "730",
+        "name": "Third Redemption",
+        "dlc": "mini01",
+        "sectors": {
+            "001": {
+                "id": "001",
+                "name": "Third Redemption",
+                "gates": [
+                    {
+                        "destCluster": "720",
+                        "destSector": "001"
+                    }
+                ],
+                "superhighways": []
+            }
+        }
+    }
+}
